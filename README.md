@@ -9,5 +9,6 @@ Neste repositório contém o código fonte para a entrega do projeto para a disc
 ## Como instalar e rodar o projeto:
 
 1. Clone o repositório em uma pasta de seja de fácil acesso.
-2. Rode o script: main.bat (Windows) / main.sh (Linux)
-3. Espere o script rodar e abrir o projeto.
+2. Primeiro rode o script: GerarImagens
+3. Espere o script rodar e terminar.
+4. Rode o script main.bat e espere terminar.
