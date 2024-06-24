@@ -13,7 +13,7 @@ Neste repositório contém o código fonte para a entrega do projeto para a disc
 - Ter NodeJS configurado na máquina
 
   
-  Clone o repositório em uma pasta de seja de fácil acesso.
+*Clone o repositório em uma pasta de seja de fácil acesso.*
 
 Rodar Backend:
 1. Primeiro rode o script: GerarImagens
