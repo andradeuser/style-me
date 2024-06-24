@@ -9,6 +9,15 @@ Neste repositório contém o código fonte para a entrega do projeto para a disc
 ## Como instalar e rodar o projeto:
 
 1. Clone o repositório em uma pasta de seja de fácil acesso.
-2. Primeiro rode o script: GerarImagens
-3. Espere o script rodar e terminar.
-4. Rode o script main.bat e espere terminar.
+
+Rodar Backend:
+1. Primeiro rode o script: GerarImagens
+2. Espere o script rodar e terminar.
+3. Rode o script main.bat e espere terminar.
+
+Rodar Frontend:
+1. Entre na pasta style-me
+2. Entre novamente na pasta style-me
+3. Abra o terminal
+4. Execute o comando: **node gateway.js**
+5. Abra outro terminal (no mesmo diretório que o anterior) e execute o comando: **npm start**
