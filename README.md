@@ -8,7 +8,12 @@ Neste repositório contém o código fonte para a entrega do projeto para a disc
 
 ## Como instalar e rodar o projeto:
 
-1. Clone o repositório em uma pasta de seja de fácil acesso.
+### Pre-requisitos:
+- Ter Docker desktop instalado (para rodar as imagens do back-end)
+- Ter NodeJS configurado na máquina
+
+  
+  Clone o repositório em uma pasta de seja de fácil acesso.
 
 Rodar Backend:
 1. Primeiro rode o script: GerarImagens
